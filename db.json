@@ -1,0 +1,74 @@
+{
+    "results": [
+        {
+            "country": "Country 1",
+            "type": "U",
+            "functionality": "Any",
+            "downFrom": "2020-07-24T12:00:00Z",
+            "downTo": "2020-08-30T12:00:00Z",
+            "creationDate": "2020-04-01T12:00:00Z",
+            "createdBy": "nd admin",
+            "origin": "Encode",
+            "messageType": "CD070B",
+            "explanationDetails": "Maintenance",
+            "fallback": "Other",
+            "lowAvailability": "Y"
+        },
+        {
+            "country": "Country 2",
+            "type": "S",
+            "functionality": "Any",
+            "downFrom": "2020-07-24T12:00:00Z",
+            "downTo": "2020-08-30T12:00:00Z",
+            "creationDate": "2020-04-01T12:00:00Z",
+            "createdBy": "nd admin",
+            "origin": "Encode",
+            "messageType": "CD070B",
+            "explanationDetails": "Maintenance",
+            "fallback": "Other",
+            "lowAvailability": "Y"
+        },
+        {
+            "country": "Country 3",
+            "type": "S",
+            "functionality": "Any",
+            "downFrom": "2020-07-24T12:00:00Z",
+            "downTo": "2020-08-30T12:00:00Z",
+            "creationDate": "2020-04-01T12:00:00Z",
+            "createdBy": "nd admin",
+            "origin": "Encode",
+            "messageType": "CD070B",
+            "explanationDetails": "Maintenance",
+            "fallback": "Other",
+            "lowAvailability": "N"
+        },
+        {
+            "country": "Country 4",
+            "type": "U",
+            "functionality": "Any",
+            "downFrom": "2020-07-24T12:00:00Z",
+            "downTo": "2020-08-30T12:00:00Z",
+            "creationDate": "2020-04-01T12:00:00Z",
+            "createdBy": "nd admin",
+            "origin": "Encode",
+            "messageType": "CD070B",
+            "explanationDetails": "Maintenance",
+            "fallback": "Other",
+            "lowAvailability": "Y"
+        },
+        {
+            "country": "Country 5",
+            "type": "S",
+            "functionality": "Any",
+            "downFrom": "2020-07-24T12:00:00Z",
+            "downTo": "2020-08-30T12:00:00Z",
+            "creationDate": "2020-04-01T12:00:00Z",
+            "createdBy": "nd admin",
+            "origin": "Encode",
+            "messageType": "CD070B",
+            "explanationDetails": "Maintenance",
+            "fallback": "Other",
+            "lowAvailability": "N"
+        }
+    ]
+}
